@@ -2,9 +2,8 @@ import React from 'react'
 
 const Menu = ({ title, items }) => {
     return (
-        <section>
-
-            <nav className="grid gap-y-4">
+        <section className="w-96">
+            <nav className="grid gap-y-4 flex items-center justify-center">
                 <h6 className="text-lg text-primary-brand-color">{title}</h6>
                 <nav>
                     <ul className="grid gap-y-2">

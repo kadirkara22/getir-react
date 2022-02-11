@@ -3,17 +3,17 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://assets.materialup.com/uploads/3e6fac12-3d12-4253-aa16-be6a9b609819/preview.jpg",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://assets.materialup.com/uploads/3e6fac12-3d12-4253-aa16-be6a9b609819/preview.jpg",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://assets.materialup.com/uploads/3e6fac12-3d12-4253-aa16-be6a9b609819/preview.jpg",
       "type": "image/png",
       "sizes": "512x512"
     }

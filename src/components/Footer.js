@@ -70,9 +70,8 @@ const Footer = () => {
     return (
         <div className="bg-white mt-10">
             <div className="container mx-auto">
-                <div className="grid grid-cols-4 pt-10">
+                <div className="grid grid-cols-5 pt-10">
                     <section>
-
                         <nav className="grid gap-y-4">
                             <h6 className="text-lg text-primary-brand-color">Getir'i indirin!</h6>
                             <a href="#">
@@ -89,6 +88,11 @@ const Footer = () => {
                     {
                         menus.map((menu, index) => <Menu key={index} {...menu} />)
                     }
+                    <section className="flex justify-end">
+                        <a href="#" className="flex items-center rounded-lg justify-center bg-white shadow-lg w-[104px] h-[116px]">
+                            <img className="w-[72px] h-[84px]" src="https://getir.com/_next/static/images/etbis-33c159729adc8b4e2b946310f038d2f4.png" />
+                        </a>
+                    </section>
                 </div>
                 <div className="flex justify-between items-center border-t border-gray-100 mt-6 py-6">
                     <div className="text-xs text-gray-700 flex gap-x-8">
