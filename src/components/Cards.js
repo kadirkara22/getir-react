@@ -7,7 +7,7 @@ const Cards = () => {
         setCards(CardsData)
     }, [])
     return (
-        <div className="container mx-auto grid grid-cols-3 gap-x-4 py-14">
+        <div className="container mx-auto grid md:grid-cols-2 lg:grid-cols-3 gap-4 px-4 md:px-0 py-14">
             {
                 cards.length && cards.map(card => (
                     <div className="bg-white p-14 rounded-lg shadow-md flex flex-col items-center  text-center">
