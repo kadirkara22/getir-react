@@ -10,7 +10,7 @@ const Categories = () => {
         //setTimeout(()=>setCategories(categoryData),1000)
         setCategories(categoryData)
     }, [])
-    console.log(categories)
+
     return (
         <div className="bg-white py-4">
             <div className="container mx-auto">
