@@ -21,8 +21,8 @@ function App() {
             renders the first one that matches the current URL. */}
         <Routes>
           <Route path="/" element={<Getir />} />
-          <Route path="/yemek" element={<GetirBuyuk />} />
-          <Route path="/buyuk" element={<GetirYemek />} />
+          <Route path="/yemek" element={<GetirYemek />} />
+          <Route path="/buyuk" element={<GetirBuyuk />} />
           <Route path="/su" element={<GetirSu />} />
           <Route path="/carsi" element={<GetirCarsi />} />
 

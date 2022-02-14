@@ -3,7 +3,7 @@ import React from 'react'
 const GetirCarsi = () => {
     return (
         <div>
-            <video controls loop autoPlay >
+            <video autoPlay loop>
                 <source src="https://getir.com/videos/1-hamburger.mp4" type="video/mp4"></source>
             </video>
 

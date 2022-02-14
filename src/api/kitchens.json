@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Lahmacun",
+    "image": "https://cdn.getiryemek.com/cuisines/1642845792882_480x300.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Mantı",
+    "image": "https://cdn.getiryemek.com/cuisines/1642845803818_480x300.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Pasta & Tatlı",
+    "image": "https://cdn.getiryemek.com/cuisines/1643703458004_480x300.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Börek",
+    "image": "https://cdn.getiryemek.com/cuisines/1642845598965_480x300.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Deniz Ürünleri",
+    "image": "https://cdn.getiryemek.com/cuisines/1643703332354_480x300.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Burger",
+    "image": "https://cdn.getiryemek.com/cuisines/1642845341387_480x300.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Döner",
+    "image": "https://cdn.getiryemek.com/cuisines/1643703341952_480x300.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Dünya Mutfağı",
+    "image": "https://cdn.getiryemek.com/cuisines/1642845974716_480x300.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Ev Yemeklari",
+    "image": "https://cdn.getiryemek.com/cuisines/1643703369353_480x300.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "Kahvaltı",
+    "image": "https://cdn.getiryemek.com/cuisines/1642845616395_480x300.jpeg"
+  },
+  {
+    "id": 11,
+    "title": "Kebap",
+    "image": "https://cdn.getiryemek.com/cuisines/1642845779939_480x300.jpeg"
+  },
+  {
+    "id": 12,
+    "title": "Köfte",
+    "image": "https://cdn.getiryemek.com/cuisines/1642845815994_480x300.jpeg"
+  }
+]

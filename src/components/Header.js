@@ -9,7 +9,7 @@ const Header = () => {
 
     return (
         <>
-            <div className="bg-brand-color">
+            <div className="bg-brand-color sticky top-0 z-50">
                 <div className="container mx-auto h-11 flex items-center justify-center md:justify-between px-4">
                     {/*  brightness(5%) invert(90%) sepia(72%) saturate(3333%) hue-rotate(180deg) contrast(102%) */}
                     {/* brightness-[5%] invert-[90%] sepia-[72%] saturate-[500%] hue-rotate-[180deg] contrast-[102%] */}
