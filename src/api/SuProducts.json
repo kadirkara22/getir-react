@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Kuzeyden Su 19 L - Damacana İadeli x2",
+    "image": "https://cdn.getir.com/product/5e996afa02ca4d191ee8dba2_tr_1614248089775.jpeg",
+    "alt": "",
+    "price": 40.65
+  },
+  {
+    "id": 2,
+    "title": "Kuzeyden Su 19 L - İade Damacanam Yok",
+    "image": "https://cdn.getir.com/product/593a886cf6eedb019d3f9fe0_tr_1618315551935.jpeg",
+    "alt": "",
+    "price": 81
+  },
+  {
+    "id": 3,
+    "title": "Sırma Sade",
+    "image": "https://cdn.getir.com/product/56bb3ee72660e20f007c9657_tr_1622575125427.jpeg",
+    "alt": "6 x 200 ml",
+    "price": 10.52
+  },
+  {
+    "id": 4,
+    "title": "Su Pompası",
+    "image": "https://cdn.getir.com/product/599fdb62c577ee0004dc9d97_tr_1628971721475.jpeg",
+    "alt": "",
+    "price": 24.5
+  },
+  {
+    "id": 5,
+    "title": "Damacana Cam Pompa Borusu",
+    "image": "https://cdn.getir.com/product/5a4dd4877614470004f366d1_tr_1630576424666.jpeg",
+    "alt": "",
+    "price": 34.9
+  }
+]

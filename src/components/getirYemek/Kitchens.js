@@ -73,6 +73,13 @@ const Kitchens = () => {
                     slidesToShow: 4,
                     arrows: false
                 }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 3,
+                    arrows: false
+                }
             }
 
         ]

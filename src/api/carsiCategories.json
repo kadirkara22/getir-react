@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Market",
+    "image": "https://cdn.getircarsi.com/reyon/market-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Şarküteri",
+    "image": "https://cdn.getircarsi.com/reyon/sarkuteri.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Kasap",
+    "image": "https://cdn.getircarsi.com/reyon/kasap.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Manav",
+    "image": "https://cdn.getircarsi.com/reyon/manav.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Kuruyemişçi",
+    "image": "https://cdn.getircarsi.com/reyon/kuruyemis.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Aktar",
+    "image": "https://cdn.getircarsi.com/bb62941360ea3ee79ee6ac01dd62bd76.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Turşucu",
+    "image": "https://cdn.getircarsi.com/c08a1ef2521512c87e3479f7f38fe617.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Yufkacı",
+    "image": "https://cdn.getircarsi.com/ef829d37d1c23493f05be4fe8b76196c.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Balıkçı",
+    "image": "https://cdn.getircarsi.com/1e9b79b5f47ca8e861b5dedfc105e345.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Pet Shop",
+    "image": "https://cdn.getircarsi.com/reyon/petshop.jpg"
+  }
+]

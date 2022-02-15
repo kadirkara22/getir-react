@@ -6,7 +6,7 @@ import { useWindowWidth } from '@react-hook/window-size'
 import { MdLocationSearching } from 'react-icons/md';
 
 
-const FoodSection = () => {
+const CarsiSection = () => {
     const [selected, setSelected] = useState('TR');
 
     const windowWidth = useWindowWidth()
@@ -31,35 +31,14 @@ const FoodSection = () => {
         cssEase: "linear"
     };
 
+
     return (
         <div className="relative h-auto md:h-[500px]">
             {windowWidth >= 768 && <Slider {...settings}>
                 <div>
-                    <video autoPlay loop className="w-full h-[500px] object-cover">
-                        <source src="https://getir.com/videos/1-hamburger.mp4" type="video/mp4"></source>
-                    </video>
+                    <img className="w-full h-[500px] object-cover" src="https://getir.com/_next/static/images/locals-1-0571221e6ee86dec18fe32bd2705e178.jpg" />
+                </div>
 
-                </div>
-                <div>
-                    <video autoPlay loop className="w-full h-[500px] object-cover">
-                        <source src="https://getir.com/videos/2-doner.mp4" type="video/mp4"></source>
-                    </video>
-                </div>
-                <div>
-                    <video autoPlay loop className="w-full h-[500px] object-cover">
-                        <source src="https://getir.com/videos/3-pide.mp4" type="video/mp4"></source>
-                    </video>
-                </div>
-                <div>
-                    <video autoPlay loop className="w-full h-[500px] object-cover">
-                        <source src="https://getir.com/videos/4-pizza.mp4" type="video/mp4"></source>
-                    </video>
-                </div>
-                <div>
-                    <video autoPlay loop className="w-full h-[500px] object-cover">
-                        <source src="https://getir.com/videos/5-kunefe.mp4" type="video/mp4"></source>
-                    </video>
-                </div>
             </Slider>}
             <div className="md:container flex justify-end items-center relative md:absolute top-0 left-0 md:left-1/2 translate-x-0 md:-translate-x-1/2 h-full z-20">
 
@@ -113,4 +92,4 @@ const FoodSection = () => {
     )
 }
 
-export default FoodSection
+export default CarsiSection

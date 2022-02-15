@@ -1,13 +1,26 @@
+
+import Footer from 'components/Footer'
+import Header from 'components/Header'
+import MobileApp from 'components/MobileApp'
 import React from 'react'
+import CarsiCards from './CarsiCards'
+import CarsiCategories from './CarsiCategories'
+import CarsiSection from './CarsiSection'
+import Isletme from './Isletme'
+
 
 const GetirCarsi = () => {
-    return (
-        <div>
-            <video autoPlay loop>
-                <source src="https://getir.com/videos/1-hamburger.mp4" type="video/mp4"></source>
-            </video>
 
-        </div>
+    return (
+        <>
+            <Header />
+            <CarsiSection />
+            <CarsiCategories />
+            <MobileApp />
+            <CarsiCards />
+            <Isletme />
+            <Footer />
+        </>
     )
 }
 
